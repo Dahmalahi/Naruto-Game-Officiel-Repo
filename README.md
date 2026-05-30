@@ -15,9 +15,13 @@ A fan-made Naruto fighting game for J2ME mobile phones.
 
 | Key   | Action                                       |
 | ----- | -------------------------------------------- |
-| **0** |  Attack unlimited sp                                |
+| **0** |  Attack unlimited sp                         |
 | **7** | Special Attack (Requires 50% Chakra or more) |
 | **9** | Ultra Attack (Requires Full Chakra)          |
+| **5** |  Attack                                      |
+| **4** | move right                                   |
+| **6** | move left                                    |
+| **2** |jump                                          |
 
 ## Playable Characters
 
