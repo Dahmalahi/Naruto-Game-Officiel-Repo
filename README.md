@@ -1,4 +1,3 @@
-If you're writing a GitHub repository description or README, here's a cleaner version:
 
 # Naruto-Game-Officiel-Repo
 
